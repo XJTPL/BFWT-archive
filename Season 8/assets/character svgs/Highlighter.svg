@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="368.64pt"
+    height="368.64pt"
+    viewBox="0 0 368.64 368.64">
+<defs/>
+<g id="group0" transform="translate(156, 102.24)" fill="none">
+  <rect id="shape0" transform="translate(16.5599999999998, 159.3456)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="19.2" height="7.2"/>
+  <rect id="shape1" transform="translate(9.59999999999991, 83.2659000000014)" fill="#f1f1f1" fill-rule="evenodd" stroke="#b6b6b6" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="33.12" height="76.8"/>
+  <rect id="shape2" transform="translate(52.32, 41.28)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="14.8800000000031" height="63.36"/>
+  <rect id="shape3" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="52.32" height="83.28"/>
+ </g>
+</svg>
