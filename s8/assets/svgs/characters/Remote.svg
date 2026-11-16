@@ -9,12 +9,12 @@
     height="240pt"
     viewBox="0 0 240 240">
 <defs/>
-<g id="group0" transform="translate(330.36, 111)" fill="none">
+<g id="group0" transform="translate(81.72, 46.68)" fill="none">
   <rect id="shape0" fill="#393939" fill-rule="evenodd" stroke="#000000" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="76.56" height="146.64" rx="12.48" ry="12.48"/>
-  <path id="shape1" transform="translate(-321.738451773584, -157.503458893948)" fill="#ab0204" fill-rule="evenodd" stroke="#700103" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M378.294 165.305L360.378 177.365L342.462 165.305Z" sodipodi:nodetypes="cccc"/>
+  <path id="shape1" transform="translate(20.723548226416, 7.80154110605202)" fill="#ab0204" fill-rule="evenodd" stroke="#700103" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M35.832 0L17.916 12.06L0 0Z" sodipodi:nodetypes="cccc"/>
   <g id="group1" transform="translate(14.2728095371709, 64.68)" fill="none">
    <rect id="shape2" transform="matrix(0.707106781186549 -0.41438855459135 0.707106781186547 0.41438855459135 0 14.28)" fill="#7d7d7d" fill-rule="evenodd" stroke="#000000" stroke-width="3.6" stroke-linecap="square" stroke-linejoin="bevel" width="34.4604112294613" height="34.4604112294613"/>
-   <path id="shape3" transform="matrix(1 0 0 0.586033913995271 12.427190462829 7.28275506689641)" fill="#393939" fill-rule="evenodd" stroke="#000000" stroke-width="3.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="1.9992" d="M0 0L23.88 23.88" sodipodi:nodetypes="cc"/>
+   <path id="shape3" transform="matrix(1 0 0 0.586033913995271 12.427190462829 7.28275506689641)" fill="#393939" fill-rule="evenodd" stroke="#000000" stroke-width="3.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="1.99919998645782" d="M0 0L23.88 23.88" sodipodi:nodetypes="cc"/>
    <path id="shape01" transform="matrix(-2.22044604925031e-16 -0.586033913995271 1 -1.3012566890575e-16 12.4271904628288 21.2772449331036)" fill="none" stroke="#000000" stroke-width="3.6" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L23.88 23.88" sodipodi:nodetypes="cc"/>
    <rect id="shape02" transform="matrix(0.707106781186549 -0.41438855459135 0.707106781186547 0.414388554591351 13.536765793556 14.2798894794907)" fill="#7d7d7d" stroke="#000000" stroke-width="3.6" stroke-linecap="square" stroke-linejoin="bevel" width="15.3162666666667" height="15.3168"/>
   </g>

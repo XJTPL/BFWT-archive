@@ -9,9 +9,9 @@
     height="240pt"
     viewBox="0 0 240 240">
 <defs/>
-<g id="group0" transform="translate(250.80052574297, 129.345095939361)" fill="none">
-  <path id="shape0" transform="matrix(-1 0 0 1 38.4 0.000516918705102398)" fill="none" stroke="#bed8ce" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="bevel" d="M0 12.0948C53.8776 -37.5465 48.4265 79.72 0.0760946 109.814" sodipodi:nodetypes="cc"/>
-  <path id="shape1" transform="translate(197.280000000004, 0)" fill="none" stroke="#bed8ce" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="bevel" d="M0 12.0947C53.8776 -37.5464 48.4265 79.7197 0.0760946 109.814" sodipodi:nodetypes="cc"/>
+<g id="group0" transform="translate(2.16052574296984, 65.0250959393612)" fill="none">
+  <path id="shape0" transform="matrix(-1 0 0 1 38.4 0.000537139246546303)" fill="none" stroke="#bed8ce" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="bevel" d="M0 12.0948C53.8776 -37.5465 48.4265 79.72 0.0760946 109.814" sodipodi:nodetypes="cc"/>
+  <path id="shape1" transform="translate(197.280000000004, -6.68557811991377e-05)" fill="none" stroke="#bed8ce" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="bevel" d="M0 12.0947C53.8776 -37.5464 48.4265 79.7197 0.0760946 109.814" sodipodi:nodetypes="cc"/>
   <g id="group1" transform="translate(37.1999999999999, 12.0296004884316)" fill="none">
    <rect id="shape2" fill="#1dffa6" fill-rule="evenodd" stroke="#16c480" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="161.279999999998" height="97.92"/>
    <g id="group2" transform="translate(25.32, 16.8)" fill="none">

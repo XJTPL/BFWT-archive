@@ -9,14 +9,14 @@
     height="240pt"
     viewBox="0 0 240 240">
 <defs/>
-<g id="group0" transform="translate(304.649999999999, 124.32)" fill="none">
-  <path id="shape0" transform="matrix(0.975412560114355 0 0 0.956022944550669 0 0.479445951275295)" fill="#ff8e1a" fill-rule="evenodd" stroke="#c46d14" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M116.732 62.2585C116.732 28.3373 90.6593 -5.82122 58.366 0.838778C26.0728 7.49878 3.68829e-15 24.4973 0 62.2585C-3.68829e-15 100.02 26.1021 116.598 58.366 123.678C90.63 130.758 116.732 96.1797 116.732 62.2585Z" sodipodi:nodetypes="czzzc"/>
+<g id="group0" transform="translate(56.0099999999991, 60)" fill="none">
+  <path id="shape0" transform="matrix(0.975412560114355 0 0 0.956022944550669 -1.4210854715202e-14 0.479446587445729)" fill="#ff8e1a" fill-rule="evenodd" stroke="#c46d14" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M116.732 62.2585C116.732 28.3373 90.6593 -5.82122 58.366 0.838778C26.0728 7.49878 3.68829e-15 24.4973 0 62.2585C-3.68829e-15 100.02 26.1021 116.598 58.366 123.678C90.63 130.758 116.732 96.1797 116.732 62.2585Z" sodipodi:nodetypes="czzzc"/>
   <ellipse id="shape1" transform="matrix(0.975412560114355 0 0 0.956022944550669 8.82360165643227 -1.4210854715202e-14)" rx="61.08" ry="62.76" cx="61.08" cy="62.76" fill="#ffda90" fill-rule="evenodd" stroke="#c46d14" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel"/>
   <ellipse id="shape01" transform="matrix(0.975412560114355 0 0 0.956022944550669 17.3682156830341 8.60510805500986)" rx="52.32" ry="53.7590569744597" cx="52.32" cy="53.7590569744597" fill="#ff7300" fill-rule="evenodd" stroke="#eb6a00" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel"/>
-  <g id="group1" transform="matrix(0.984768992773036 0 0 0.956022944550669 20.6948767542569 6.42447418737734)" fill="none">
-   <path id="shape2" transform="translate(48.4452570585378, 0)" fill="none" stroke="#ffda90" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 112.08" sodipodi:nodetypes="cc"/>
+  <g id="group1" transform="matrix(0.984768992773036 0 0 0.956022944550669 20.6948767542569 6.42447418737732)" fill="none">
+   <path id="shape2" transform="translate(48.4452570585378, -2.8421709430404e-14)" fill="none" stroke="#ffda90" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 112.08" sodipodi:nodetypes="cc"/>
    <path id="shape02" transform="matrix(-0.502673418936734 0.864476392907566 -0.864476392907566 -0.502673418936734 96.89051411708 84.2098183972185)" fill="none" stroke="#ffda90" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 112.08" sodipodi:nodetypes="cc"/>
-   <path id="shape011" transform="matrix(0.502672826890925 0.864476392907566 0.864475374732333 -0.502673418936734 5.7058537862531e-05 84.2098183972213)" fill="none" stroke="#ffda90" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 112.08" sodipodi:nodetypes="cc"/>
+   <path id="shape011" transform="matrix(0.502672826890925 0.864476392907566 0.864475374732333 -0.502673418936734 5.70585378483202e-05 84.2098183972213)" fill="none" stroke="#ffda90" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 112.08" sodipodi:nodetypes="cc"/>
   </g>
  </g>
 </svg>

@@ -9,8 +9,8 @@
     height="240pt"
     viewBox="0 0 240 240">
 <defs/>
-<g id="group0" transform="translate(326.640000631331, 100.321729622724)" fill="none">
+<g id="group0" transform="translate(78.0000006313307, 36.0017296227236)" fill="none">
   <rect id="shape0" transform="translate(33.6, 83.9965407545528)" fill="#f9f9f9" fill-rule="evenodd" stroke="#bebebe" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="16.8" height="84"/>
-  <path id="shape01" transform="matrix(-1 0 0 1 84.0000045411847 -8.5265128291212e-14)" fill="#45f300" stroke="#34b800" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M18.046 83.9965C-1.50976 72.8461 -5.42529 40.5872 7.54118 19.2724C15.2499 6.60063 26.2603 -0.000901785 41.9996 9.2396e-08C57.7389 0.000901969 68.7498 6.60063 76.4587 19.2725C89.4254 40.5872 85.5098 72.846 65.9536 83.9965Z" sodipodi:nodetypes="cszscc"/>
+  <path id="shape01" transform="matrix(-1 0 0 1 84.0000068117771 -1.4210854715202e-14)" fill="#45f300" stroke="#34b800" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M18.046 83.9965C-1.50976 72.8461 -5.42529 40.5872 7.54118 19.2724C15.2499 6.60063 26.2603 -0.000901785 41.9996 9.2396e-08C57.7389 0.000901969 68.7498 6.60063 76.4587 19.2725C89.4254 40.5872 85.5098 72.846 65.9536 83.9965Z" sodipodi:nodetypes="cszscc"/>
  </g>
 </svg>

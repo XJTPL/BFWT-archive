@@ -9,12 +9,12 @@
     height="240pt"
     viewBox="0 0 240 240">
 <defs/>
-<g id="group0" transform="translate(320.64, 124.32)" fill="none">
+<g id="group0" transform="translate(72, 60)" fill="none">
   <g id="group1" fill="none">
    <rect id="shape0" fill="none" stroke="#909090" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="96" height="120"/>
    <g id="group2" fill="none">
-    <path id="shape1" transform="translate(-132, -120)" fill="#bdbdbd" fill-rule="evenodd" stroke="#909090" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M186 130.8C186 127.486 183.314 124.8 180 124.8C176.686 124.8 174 127.486 174 130.8C174 134.114 176.686 136.8 180 136.8C183.314 136.8 186 134.114 186 130.8M132 120L228 120L228 144L132 144Z" sodipodi:nodetypes="cccccccccc"/>
-    <path id="shape01" transform="translate(0, 20.4)" fill="none" stroke="#909090" stroke-width="2.4" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="1.9992" stroke-dasharray="9.6,4.8" d="M0 0L96 0" sodipodi:nodetypes="cc"/>
+    <path id="shape1" fill="#bdbdbd" fill-rule="evenodd" stroke="#909090" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M54 10.8C54 7.486 51.314 4.8 48 4.8C44.686 4.8 42 7.486 42 10.8C42 14.114 44.686 16.8 48 16.8C51.314 16.8 54 14.114 54 10.8M0 0L96 0L96 24L0 24Z" sodipodi:nodetypes="cccccccccc"/>
+    <path id="shape01" transform="translate(0, 20.4)" fill="none" stroke="#909090" stroke-width="2.4" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="1.99919998645782" stroke-dasharray="9.6,4.8" d="M0 0L96 0" sodipodi:nodetypes="cc"/>
    </g>
   </g>
   <path id="shape02" transform="translate(9.60000000000011, 33.6000000000001)" fill="#f9f9f9" fill-rule="evenodd" stroke="#838383" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" d="M4.8 4.8L76.8 4.8L72 0L0 0L4.8 4.8L4.845 76.71L76.8 76.8L76.8 4.8M76.8 4.8M4.8 4.8L4.845 76.71L0 72L0 0ZM72 0" sodipodi:nodetypes="ccccccccccccccc"/>
