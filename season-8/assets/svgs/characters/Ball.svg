@@ -14,5 +14,5 @@
    <stop stop-color="#cecece" offset="1" stop-opacity="1"/>
   </linearGradient>
  </defs>
-<path id="shape0" transform="matrix(-1.58727198051878e-16 1.00000000000001 -1.00000000000001 -1.58727198051878e-16 200.376944154367 39.7433899786608)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#a7a7a7" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M160.083 78.9C161.102 33.3246 130.395 0.0336353 80.7624 0C34.967 0 2.33829 30.6881 0.122417 73.2C-2.36133 120.851 33.2396 162.665 80.5224 160.995C127.241 161.303 159.089 123.337 160.083 78.9Z" sodipodi:nodetypes="ccscs"/>
+<path id="shape0" transform="matrix(-1.58727198051878e-16 1.00000000000001 -1.00000000000001 -1.58727198051878e-16 192.275258094638 47.7971899129244)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#a7a7a7" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M143.978 70.9615C144.894 29.9716 117.277 0.0302511 72.6373 0C31.4492 0 2.10305 27.6004 0.110101 65.835C-2.12377 108.692 29.8955 146.298 72.4215 144.796C114.44 145.074 143.084 110.927 143.978 70.9615Z" sodipodi:nodetypes="ccscs"/>
 </svg>
