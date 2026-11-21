@@ -9,10 +9,10 @@
     height="240pt"
     viewBox="0 0 240 240">
 <defs/>
-<g id="group0" transform="translate(86.3999999999984, 42.3672)" fill="none">
-  <rect id="shape0" transform="matrix(-1 0 0 1 50.6400000000016 148.0656)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="19.2" height="7.2"/>
-  <rect id="shape1" transform="matrix(-1 0 0 1 57.6000000000032 83.2659000000014)" fill="#f1f1f1" fill-rule="evenodd" stroke="#b6b6b6" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="33.12" height="64.8"/>
-  <rect id="shape2" transform="matrix(-1 0 0 1 14.8800000000031 41.28)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="14.8800000000031" height="63.36"/>
-  <rect id="shape3" transform="matrix(-1 0 0 1 67.2000000000031 0)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="52.32" height="83.28"/>
+<g id="group0" transform="translate(90.4799999999993, 46.8072)" fill="none">
+  <rect id="shape0" transform="matrix(-1 0 0 1 45.8400000006771 141.5856)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="19.2" height="4.8"/>
+  <rect id="shape1" transform="matrix(-1 0 0 1 50.6400000000016 76.7859000000014)" fill="#f1f1f1" fill-rule="evenodd" stroke="#b6b6b6" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="28.8" height="64.8"/>
+  <rect id="shape2" transform="matrix(-1 0 0 1 13.44 41.28)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="13.44" height="50.4"/>
+  <rect id="shape3" transform="matrix(-1 0 0 1 59.0400000000015 0)" fill="#ff6700" fill-rule="evenodd" stroke="#d85700" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="45.6" height="76.8"/>
  </g>
 </svg>
