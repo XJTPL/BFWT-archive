@@ -9,11 +9,15 @@
     height="240pt"
     viewBox="0 0 240 240">
 <defs/>
-<g id="group0" transform="translate(60, 33.6)" fill="none">
-  <rect id="shape0" fill="#f9f9f9" fill-rule="evenodd" stroke="#d2d2d2" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="120" height="172.8"/>
-  <path id="shape1" transform="translate(0, 43.2)" fill="#ababab" fill-rule="evenodd" stroke="#ababab" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
-  <path id="shape01" transform="translate(0, 86.4)" fill="#ababab" fill-rule="evenodd" stroke="#ababab" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
-  <path id="shape02" transform="translate(0, 129.6)" fill="#ababab" fill-rule="evenodd" stroke="#ababab" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
-  <path id="shape2" transform="translate(30, 0)" fill="#ff7676" fill-rule="evenodd" stroke="#ff7676" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 172.8" sodipodi:nodetypes="cc"/>
+<g id="group0" transform="translate(60, 38.3999999969724)" fill="none">
+  <rect id="shape0" fill="#f9f9f9" fill-rule="evenodd" stroke="#d2d2d2" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" width="120" height="163.2"/>
+  <path id="shape1" transform="translate(0, 40.8000000030276)" fill="#000000" fill-rule="evenodd" stroke="#bababa" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
+  <path id="shape01" transform="translate(1.4210854715202e-14, 81.6000000030276)" fill="#000000" fill-rule="evenodd" stroke="#bababa" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
+  <path id="shape02" transform="translate(0, 122.399900003028)" fill="#000000" fill-rule="evenodd" stroke="#bababa" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
+  <path id="shape11" transform="translate(0, 61.1999500030276)" fill="#000000" fill-rule="evenodd" stroke="#bababa" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
+  <path id="shape12" transform="translate(0, 142.799900003028)" fill="#000000" fill-rule="evenodd" stroke="#bababa" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
+  <path id="shape13" transform="translate(0, 101.999950003028)" fill="#000000" fill-rule="evenodd" stroke="#bababa" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
+  <path id="shape14" transform="translate(0, 20.3999500030276)" fill="#000000" fill-rule="evenodd" stroke="#bababa" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M120 0L0 0.0001" sodipodi:nodetypes="cc"/>
+  <path id="shape2" transform="translate(30, 3.02769365134736e-09)" fill="#000000" fill-opacity="0" fill-rule="evenodd" stroke="#ff7c7b" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L0 163.2" sodipodi:nodetypes="cc"/>
  </g>
 </svg>
